@@ -1,0 +1,202 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+body {
+  background-color: #f5f7fa;
+  padding: 20px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  background-color: fff;
+  display: flex;
+}
+
+.sidebar {
+  background-color: #7a1b0c;
+  width: 370px;
+  height: 1319px;
+  padding-bottom: 40px;
+}
+
+.myphoto {
+  width: 370px;
+}
+
+.my-name {
+  font-family: Satisfy;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 89px;
+  color: #7a1b0c;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.last-name {
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+.block {
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.contact-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #8e949c;
+  margin-left: 60px;
+}
+
+.eng {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #8e949c;
+  margin-left: 15px;
+}
+
+.contact-link1 {
+  margin-left: 34px;
+}
+
+.contact-link2 {
+  margin-left: 34px;
+}
+
+.contact-link3 {
+  margin-left: 52px;
+}
+
+.contact-link4 {
+  margin-left: 8px;
+}
+
+.contact-link5 {
+  margin-left: 3px;
+}
+
+.contact-link6 {
+  margin-left: 15px;
+}
+
+.contact-link-type,
+.leng-type {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #d2d4d8;
+}
+
+.text-color {
+  color: #8e949c;
+}
+
+.profession {
+  margin-top: 8px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.course-name {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.vacancy {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.objective {
+  width: 610px;
+  height: 75px;
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.projects {
+  margin-top: 25px;
+}
+
+.about-me-title {
+  font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.company {
+  display: flex;
+}
+
+.years {
+  margin-top: 10px;
+}
+
+.work {
+  margin-left: 10px;
+  display: flex;
+}
+
+.company-name {
+  color: #7a1b0c;
+}
+
+.pointer {
+  margin-top: 17px;
+  margin-left: 12px;
+  margin-right: 10px;
+}
+
+.pointer2 {
+  margin-top: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.education,
+.course {
+  display: flex;
+}
+
+.course {
+  margin-top: 10px;
+}
+
+.pointer-course {
+  margin-top: 8px;
+  margin-right: 15px;
+}
